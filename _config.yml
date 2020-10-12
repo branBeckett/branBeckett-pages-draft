@@ -25,8 +25,8 @@ urls:
 # Edit these details
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author: Brandon Beckett
+author_bio: Hi, my name is John Doe. I'm building this site using devlopr-jekyll :D
 author_email: "mail@sujaykundu.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
@@ -67,7 +67,7 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
+twitter_username: branbeckett
 github_username:  sujaykundu777
 facebook_username: johndoe
 linkedin_username: johndoe
