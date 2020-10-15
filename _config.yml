@@ -124,8 +124,8 @@ paginate_path: "/blog/page/:num/"
 #     category: '/category/:name/'
 
 # Shop
-# collections:
-#  - products
+collections:
+ - products
 
 # Gallery
 defaults:
